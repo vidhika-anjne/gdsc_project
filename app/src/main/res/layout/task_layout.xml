@@ -19,8 +19,8 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:paddingStart="8dp"
-	    android:visibility="visible"
-            tools:text="Go to the market and bring vegetables immediately today."/>
+	        android:visibility="visible"
+            tools:text="Complete the English Assignment"/>
 
     </RelativeLayout>
 

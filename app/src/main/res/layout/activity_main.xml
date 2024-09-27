@@ -43,7 +43,7 @@
         android:layout_marginTop="670dp"
         android:backgroundTint="@android:color/holo_purple"
         android:text="Sign Out"
-	android:textColor="@android:color/white" />
+	    android:textColor="@android:color/white" />
 
 
 </RelativeLayout>

@@ -9,7 +9,8 @@
         android:layout_height="wrap_content"
         android:background="@null"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-        android:hint="@string/new_task" />
+        android:hint="@string/new_task"
+        />
 
     <Button
         android:id="@+id/newTaskButton"
